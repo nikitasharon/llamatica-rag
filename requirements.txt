@@ -1,5 +1,5 @@
 streamlit
 requests
-fitz
 frontend
 pymupdf
+tools
